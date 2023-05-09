@@ -30,6 +30,7 @@ header img {
 
 .container-image img {
     width: 83%;
+    border-radius: 10px;
     margin: 0 auto;
 }
 
