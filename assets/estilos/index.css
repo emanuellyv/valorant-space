@@ -146,13 +146,21 @@ footer {
     padding: 20px;
 }
 
+footer a i {
+    font-size: 1.25rem;
+}
+
 footer a {
     text-decoration: none;
     color: #fff;
 }
 
-footer a:hover {
+.termos-e-privacidade a:hover {
     text-decoration: underline;
     opacity: .9;
     color: rgb(226, 107, 107);
+}
+
+.direitos {
+    font-size: .8em;
 }
