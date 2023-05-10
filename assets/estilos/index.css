@@ -147,12 +147,22 @@ footer {
 }
 
 footer a i {
-    font-size: 1.25rem;
+    font-size: 1.4rem;
+    margin: 7px;
+    transition: opacity .2s;
+}
+
+footer a i:hover {
+    opacity: .7;
 }
 
 footer a {
     text-decoration: none;
     color: #fff;
+}
+
+.termos-e-privacidade a {
+    transition: .2s;
 }
 
 .termos-e-privacidade a:hover {
