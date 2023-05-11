@@ -112,28 +112,41 @@ a div {
 }
 
 .nav-menu .agentes {
-    background-color: #554994;
+    background:
+    linear-gradient( rgba(85, 73, 148, 0.8),rgba(85, 73, 148, 0.8) ),
+    url(../imagens/background-agentes.png) no-repeat center;
 }
 
 .armas {
-    background-color: #b04759;
+    background:
+    linear-gradient( rgba(176, 71, 89, 0.8),rgba(176, 71, 89, 0.8) ),
+    url(../imagens/background-armas.png) no-repeat center;
 }
 
 .mapas {
-    background-color: #f675a8;
+    background:
+    linear-gradient( rgba(246, 117, 168, 0.8),rgba(246, 117, 168, 0.8) ),
+    url(../imagens/background-mapas.png) no-repeat center;
 }
 
 .girias {
-    background-color: #f29393;
+    background:
+    linear-gradient( rgba(242, 147, 147, 0.8),rgba(242, 147, 147, 0.8) ),
+    url(../imagens/background-girias.png) no-repeat center;
 }
 
 .dicas-de-jogo {
-    background-color: #ffccb3;
+    background:
+    linear-gradient( rgba(255, 204, 179, 0.8),rgba(255, 204, 179, 0.8) ),
+    url(../imagens/background-dicas-de-jogo.png) no-repeat center;
 }
 
 .referencias {
-    background-color: #af7ab3;
+    background:
+    linear-gradient( rgba(175, 122, 179, 0.8),rgba(175, 122, 179, 0.8) ),
+    url(../imagens/background-referencias.png) no-repeat center;
 }
+
 .detalhes {
     margin-top: 40px;
     margin-bottom: 40px;
