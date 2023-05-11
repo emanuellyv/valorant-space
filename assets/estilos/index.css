@@ -2,13 +2,19 @@
 
 @font-face {
     font-family: 'Rodchenko';
-    src: url('../fonts/Rodchenko-Bold.ttf') ;
+    src: url('../fonts/Rodchenko-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Pedestria';
+    src: url('../fonts/Pedestria MVB.otf') format('opentype');
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Pedestria';
 }
 
 h1, h2, h3, h4, h5, h6 {
