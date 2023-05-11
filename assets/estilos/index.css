@@ -50,31 +50,24 @@ header img {
     margin: 0 auto;
 }
 
-.texto-imagem {
-    position: relative;
-    top: -25px;
-    display: flex;
-    width: 75%;
-    margin-left: auto;
-    margin-right: auto;
-    color: #000;
-    margin-bottom: 3em;
-    padding: 0px 25px 0px 25px;
+.slogan {
+    margin-top: -15px;
+    font-family: 'Rodchenko';
     text-align: center;
-    font-size: .83em;
-    background-color: #f2efef4b;
-    border-radius: 15px;
-    backdrop-filter: blur(1px);
+    font-size: .75rem;
+    padding: 15px;
 }
 
 .sobre-nos {
+    margin-top: 30px;
     width: 100%;
 }
 
 .sobre-nos h1 {
-    font-size: 1.5em;
+    font-size: 1.75em;
     padding-left: 15px;
     padding-right: 15px;
+    margin-bottom: 5px;
     text-align: center;
 }
 
@@ -92,7 +85,7 @@ header img {
     text-align: center;
     font-size: 1.6em;
     text-transform: uppercase;
-    margin-top: 40px;
+    margin-top: 15px;
     margin-bottom: 15px;
 }
 
